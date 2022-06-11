@@ -3,7 +3,7 @@ import moment from "moment";
 const HotTopics = ({ topic }) => {
   return (
     <div className="mt-4">
-      <h3 className="font-link" style={{ fontWeight: 700 }}>
+      <h3 className="font-link" style={{ fontWeight: 700, fontSize: "30px" }}>
         Hot topics
       </h3>
       <div className="flex">
